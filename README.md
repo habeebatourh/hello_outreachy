@@ -19,3 +19,5 @@ I'm starting from scratch and documenting what I learn along the way.
  My goal
 
 To make meaningful contributions to an open-source project and eventually participate in Outreachy.
+Day 1
+Today I created my first GitHub repository and started my Outreachy preparation journey.
